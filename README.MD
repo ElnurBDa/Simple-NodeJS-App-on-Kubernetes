@@ -14,8 +14,8 @@ This is a simple Node.js application that returns a `"Hello, <name>!"` message w
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/ElnurBDa/Simple-NodeJS-App-on-Kubernetes
+cd Simple-NodeJS-App-on-Kubernetes
 ```
 
 ### 2. Dockerize the Application
